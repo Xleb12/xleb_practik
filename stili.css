@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Document{
+    max-width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.form{
+    margin-top: 10px;
+}
+.text{
+    border: 1px solid black;
+}
+.tyk{
+    border: 1px solid black;
+}
+.h1:hover{
+    cursor: pointer;
+    color: blue;
+}
+.h1>a{
+    text-decoration: none;
+    color: black;
+}
